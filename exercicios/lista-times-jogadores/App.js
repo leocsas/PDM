@@ -94,7 +94,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'red',
     alignItems: 'center',
-    justifyContent: 'center',
-    
+    justifyContent: 'center'
   },
 });
